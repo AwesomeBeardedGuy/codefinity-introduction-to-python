@@ -1,7 +1,7 @@
 # 1) Define all variables first
-item_name = "Banana"
-item_price = 0.50
-item_stock_quantity = 100   # fixed spelling
+item_name = "Eggs"
+item_price = 3.99
+item_stock_quantity = 120   # fixed spelling
 in_stock = True
 
 # 2) Then print them
